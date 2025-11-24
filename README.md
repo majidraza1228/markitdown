@@ -108,3 +108,5 @@ If you want, I can now:
 - Run the full test suite and collect failures, or
 - Show a demo conversion of a specific file type (PDF, DOCX, PPTX, audio, etc.), or
 - Add contribution guidelines / a CHANGELOG section to this README.
+
+<!-- PR: SYED_MCP_PR created on 2025-11-23 -->
