@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ignore nested cloned repo git dir so root repo can be pushed separately
+packages/markitdown/.git/
+
+# Editor
+.vscode/
